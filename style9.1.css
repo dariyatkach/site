@@ -1,0 +1,13 @@
+#content{
+  background: blue;
+background-image: url("9.1.png"); 
+background-attachment:fixed;
+background-position: center top; 
+background-repeat: no-repeat;}
+#content2{
+background: black;
+color: white;
+background-image: url("9.2.png");
+background-attachment: scroll;
+background-repeat: repeat-x;}
+background-position: bottom; 
